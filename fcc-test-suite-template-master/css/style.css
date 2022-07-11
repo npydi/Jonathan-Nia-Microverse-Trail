@@ -11,7 +11,7 @@
     top: 0;
     left: 0;
     width: 100%;
-    background: var(--main-red);
+    background: green;
     box-shadow: 0 2px 0 rgb(0 0 0 / 40%);
     z-index: 10;
 }
